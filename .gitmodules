@@ -1,3 +1,3 @@
 [submodule "quantum-frontier"]
-	path = quantum-frontier
+	path = wfc1
 	url = https://github.com/dunkatron/quantum-frontier.git
