@@ -4,7 +4,7 @@ var canvas = document.querySelector("#unity-canvas");
 var buildUrl = "Build";
 var loaderUrl = buildUrl + "/Build.loader.js";
 var config = {
-    dataUrl: buildUrl + "/0cc6395c527d4d1941f62ed28a6df953.data",
+    dataUrl: buildUrl + "/bedadd6403d668a81f41ade50cc95ccd.data",
     frameworkUrl: buildUrl + "/ac21e3352023cb1f18249ad953f29eb3.js",
     codeUrl: buildUrl + "/dbe551edd8a1b78b2d618105db7f0388.wasm",
 streamingAssetsUrl: "StreamingAssets",
