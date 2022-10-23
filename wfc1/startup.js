@@ -4,9 +4,9 @@ var canvas = document.querySelector("#unity-canvas");
 var buildUrl = "Build";
 var loaderUrl = buildUrl + "/Build.loader.js";
 var config = {
-    dataUrl: buildUrl + "/bedadd6403d668a81f41ade50cc95ccd.data",
-    frameworkUrl: buildUrl + "/ac21e3352023cb1f18249ad953f29eb3.js",
-    codeUrl: buildUrl + "/dbe551edd8a1b78b2d618105db7f0388.wasm",
+    dataUrl: buildUrl + "/5343542a08c1fc6c377e07d4ed736b8e.data",
+    frameworkUrl: buildUrl + "/6ec5266b4bae5dd683cdc8bf59dc9922.js",
+    codeUrl: buildUrl + "/864a68dbe2cbe6e8400ddca2ded7651a.wasm",
 streamingAssetsUrl: "StreamingAssets",
     companyName: "Wave Function Collapse Test 1",
     productName: "Wave Function Collapse Test 1",
